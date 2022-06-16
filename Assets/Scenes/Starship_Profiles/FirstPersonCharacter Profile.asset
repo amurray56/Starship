@@ -67,7 +67,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 1
+    value: 3
   threshold:
     overrideState: 1
     value: 1
@@ -111,26 +111,3 @@ MonoBehaviour:
   settings:
   - {fileID: -6250938022586693089}
   - {fileID: -344903892167027236}
-  - {fileID: 4134965579681764972}
---- !u!114 &4134965579681764972
-MonoBehaviour:
-  m_ObjectHideFlags: 3
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b94fcd11afffcb142908bfcb1e261fba, type: 3}
-  m_Name: MotionBlur
-  m_EditorClassIdentifier: 
-  active: 1
-  enabled:
-    overrideState: 1
-    value: 1
-  shutterAngle:
-    overrideState: 1
-    value: 250
-  sampleCount:
-    overrideState: 1
-    value: 10
